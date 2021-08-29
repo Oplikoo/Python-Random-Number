@@ -1,4 +1,4 @@
-# Python-Random-Number
+# Random Number In Python
 Python Guessing Random Number game
 I made the code very user-friendly and theres explains before every line about what did I do there.
 
